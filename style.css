@@ -35,9 +35,9 @@ header{
 }
 img{
     text-align: left;
-    width:150px;
+    width:200px;
     height: 150px;
-    border-radius:50%;
+    object-fit: cover;
 }
 h3{
     text-align: center;
