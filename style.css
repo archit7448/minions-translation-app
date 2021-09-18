@@ -1,0 +1,44 @@
+body{
+    background-color: #f4cb22;
+    font-size: 1.5rem;
+    font-family: 'Grechen Fuemen', cursive;
+}
+textarea{
+    width:60%;
+    height:30vh;
+    display: block;
+    margin: 30px auto;
+    font-size: 1.2rem;
+}
+button{
+    display: block;
+    border-radius: 25px;
+    font-size:1.2rem;
+    margin: 0 auto;
+    padding:10px;
+}
+#output{
+    width: 60%;
+    height:20vh;
+    border:1px solid black;
+    margin:20px auto;
+    background-color: white;
+}
+h1{
+    text-align:center;
+    vertical-align: middle;
+    float: right;
+    margin-right: 10%;
+}
+header{
+    padding:20px;
+}
+img{
+    text-align: left;
+    width:150px;
+    height: 150px;
+    border-radius:50%;
+}
+h3{
+    text-align: center;
+}
